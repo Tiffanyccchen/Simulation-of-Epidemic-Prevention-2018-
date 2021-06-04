@@ -3,7 +3,7 @@ Homework for COMPUTER PROGRAMMING AND APPLICATION course
 
 ## Structure
 1. Explanation folder:
-  Contains the scenario, restriction, and the examples of the problem.
+  Contains the scenario, restriction, and the examples of the problem
 2. data1.txt:
   The meaning and structure are explained in p5 of Explanation/CPP1702_HW6.pdf.
 
